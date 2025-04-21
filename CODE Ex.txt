@@ -7,3 +7,5 @@ CODE
 3.Last seen
 
 4.Attachemnts
+
+5.Hiding
